@@ -1,0 +1,20 @@
+.wrap {
+    width: 433rem;
+  }
+  
+  .text {
+    font-size: 16rem;
+    line-height: 19rem;
+    color: #838383;
+  }
+  
+  .qr {
+    display: flex;
+    justify-content: center;
+    margin-top: 75rem;
+  }
+   .qr img {
+      width: 208rem;
+      height: 208rem;
+    }
+  
